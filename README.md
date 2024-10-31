@@ -8,75 +8,91 @@
 ![intention](https://github.com/user-attachments/assets/b72c6627-fd30-40e6-86ad-fae14c3897ac)
 
 
-# 🌱 역할
+# 🌱 역할 - 김동규 (조장)
 
-## 💗 김동규 (조장)
+## 메일
 
-### 메일
-- 네이버 스마트에디터2
+- 메일 목록조회 & 페이징처리
+- 메일 상세조회
+- 메일쓰기 / 내게쓰기
+    - 수신인 검색기능
+    - 스마트에디터 (네이버 스마트에디터2)
+- 메일 답장
+    - 메일 답장/전달시 기존 메일의 정보 본문에 추가
+- 메일 임시저장 & 보내기
+- 메일 삭제 / 복구 / 영구삭제
+- 메일 중요표시 / 읽음표시 기능
+- 메일 알림 팝업
 
-### 주소록
+
+## 주소록
+
+- 주소록 목록조회
+- 주소록 사용자 정렬
+- 주소록 사용자 검색
+- 주소록 중요표시 기능
+- 주소록 추가/수정/삭제 + 사용자 추가
+    - 공유 주소록 (기존 카테고리에 추가/수정)
+    - 공유 주소록 (새로운 카테고리에 추가/수정)
+    - 개인 주소록 (추가/수정/삭제) + 기존카테고리 삭제
 
 
+# 📽 프로젝트 구현 (김동규)
 
-# 📽 프로젝트 구현
+## 메일
 
-## 💗 김동규
-
-### 메일
-
-#### 메일 목록조회
+### 메일 목록조회
 ![메일_목록조회](https://github.com/user-attachments/assets/a6202549-81ad-4d16-8ff8-c3d800b02d7f)
 
-#### 메일 목록 - 페이징처리
+### 메일 목록 - 페이징처리
 ![메일_목록_페이징처리](https://github.com/user-attachments/assets/0cb9b00b-958d-48b3-a6db-58bfedfded9f)
 
-#### 메일 상세조회
+### 메일 상세조회
 ![메일_상세조회](https://github.com/user-attachments/assets/a05af9f5-980a-403c-9485-6c6566ff3c3e)
 
-#### 메일쓰기 - 수신인 검색기능
+### 메일쓰기 - 수신인 검색기능
 ![메일쓰기_수신인검색](https://github.com/user-attachments/assets/331ce8a1-73e0-40f4-ae85-9fdd1bc67da5)
 
-#### 메일쓰기 - 스마트에디터
+### 메일쓰기 - 스마트에디터
 ![메일쓰기_스마트에디터](https://github.com/user-attachments/assets/3ba867a8-53c5-4603-89e0-962b99eea074)
 
-#### 메일 내게쓰기
+### 메일 내게쓰기
 ![메일_내게쓰기](https://github.com/user-attachments/assets/c685c0c3-3b1f-486a-b5c3-c096ef0acc86)
 
-#### 메일 답장
+### 메일 답장
 ![메일_답장](https://github.com/user-attachments/assets/d8464fda-aeff-4322-9347-f81f7cec83ed)
 
-#### 메일 임시저장 & 보내기
+### 메일 임시저장 & 보내기
 ![메일_임시저장](https://github.com/user-attachments/assets/10b822bd-f769-4103-a567-8c3d022797f6)
 
-#### 메일 삭제 / 복구 / 영구삭제
+### 메일 삭제 / 복구 / 영구삭제
 ![메일_삭제](https://github.com/user-attachments/assets/80644ebe-7c01-4ce4-bffd-733ec39d50fd)
 
-#### 메일 중요표시 기능
+### 메일 중요표시 기능
 ![메일_중요표시](https://github.com/user-attachments/assets/3f2b31fa-fd14-483d-93a9-ccb2a18a8dbc)
 
-#### 메일 읽음표시 기능
+### 메일 읽음표시 기능
 ![메일_읽음표시](https://github.com/user-attachments/assets/792a5478-e302-424d-ba52-fcc39995d2ef)
 
-#### 메일 알림
+### 메일 알림
 ![메일_알림](https://github.com/user-attachments/assets/e28e4e32-687c-43ba-8b31-246dd14dd502)
 
 
-### 주소록
+## 주소록
 
-#### 주소록 목록조회
+### 주소록 목록조회
 ![주소록_목록조회](https://github.com/user-attachments/assets/2082798a-2c15-40b0-977c-f58bd14c6506)
 
-#### 주소록 중요표시 기능
+### 주소록 중요표시 기능
 ![주소록_중요표시](https://github.com/user-attachments/assets/4a02e7f5-38cf-45d1-ae63-08d68937f34f)
 
-#### 주소록 사용자 정렬
+### 주소록 사용자 정렬
 ![주소록_사용자 정렬](https://github.com/user-attachments/assets/27fca1b9-24a6-4cc2-b7e9-911cdcdb007f)
 
-#### 주소록 사용자 검색
+### 주소록 사용자 검색
 ![주소록_사용자 검색](https://github.com/user-attachments/assets/31288ed1-f13c-4b26-b026-8f2e3a298639)
 
-#### 주소록 추가/수정/삭제 + 사용자 추가
+### 주소록 추가/수정/삭제 + 사용자 추가
 
 🔽 공유 주소록 (기존 카테고리에 추가/수정)
 ![공유주소록_기존카테고리](https://github.com/user-attachments/assets/ad1abb71-478b-4faf-8e73-99ca1cc08076)
@@ -88,14 +104,17 @@
 ![개인주소록](https://github.com/user-attachments/assets/b175beb6-a96c-45f7-a86d-2daaecd9ff4f)
 
 
-### 수업 게시판
+## 수업 게시판
 
 ![수업게시판](https://github.com/user-attachments/assets/e31a7060-333a-4e0f-9855-0c51fadaa275)
 
-### 도구
+> 시간관계상 메인화면만 구현
+
+## 도구
 
 ![도구](https://github.com/user-attachments/assets/9736a1d5-9f4d-4131-b860-0e578b178b90)
 
+> 시간관계상 메인화면만 구현
 
 # ✔ DB 설계
 
